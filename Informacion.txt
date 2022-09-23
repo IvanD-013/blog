@@ -7,3 +7,5 @@ informacion contable
 a)Gastos
 b)Ingresos
 c)Presupuesto
+d)Ingreso netos
+e)impuestos
