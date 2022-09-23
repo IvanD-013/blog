@@ -2,3 +2,8 @@ informacion personal
 a)Nombre
 b)Apellido
 c)Celular
+
+informacion contable
+a)Gastos
+b)Ingresos
+c)Presupuesto
