@@ -1,0 +1,4 @@
+informacion personal
+a)Nombre
+b)Apellido
+c)Celular
