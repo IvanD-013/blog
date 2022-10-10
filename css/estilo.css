@@ -9,11 +9,18 @@ body
 
 }
 #cabecera
-{
-    background-color: aqua;
-    color: #ddd;
+{  
+    background:#37488b;
+    box-shadow: 0px 2px 20px 0px , rgba(0,0,0,0);
+    color: rgb(20, 212, 139);
+    font-weight: bold;
     margin: 0;
-    padding: 0.5cm;
+    padding: 0.5cm 0.5cm 2cm;
+}
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 #cabecera #tagline
 {
@@ -29,4 +36,9 @@ body
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
+}
+#post
+{
+    background:white
+    padding:1cm;
 }
