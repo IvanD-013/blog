@@ -15,3 +15,7 @@ h)compras
 i)recibo
 j)obsequios
 
+informaicon social
+a)tengo 3 grandes amigos
+b)tengo una familia de 4 integrantes
+
