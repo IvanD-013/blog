@@ -9,5 +9,6 @@ b)Ingresos
 c)Presupuesto
 d)Ingreso netos
 e)impuestos
-f)deducciones
+f)deduccciones
 h)compras
+k)obsequios
