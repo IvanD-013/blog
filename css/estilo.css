@@ -30,3 +30,9 @@ body
     border: 1px solid #ddd;
     margin: 0 auto;
 }
+#footer
+{
+    background: #777;
+    color:white;
+    text-align: center;
+}
