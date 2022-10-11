@@ -37,8 +37,9 @@ body
     border: 1px solid #ddd;
     margin: 0 auto;
 }
-#post
+#footer
 {
-    background:white
-  
+    background: #777;
+    color:white;
+    text-align: center;
 }
