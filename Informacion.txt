@@ -20,3 +20,11 @@ a)tengo 3 grandes amigos
 b)tengo una familia de 4 integrantes
 c)Me gusta el clime templado
 d)No tengo mascotas
+
+informacion personal
+a)mido 2.0 metros
+b)soy jugador profesiona
+
+informacion personal
+a)mido 2.0 metros
+b)soy jugador profesional
